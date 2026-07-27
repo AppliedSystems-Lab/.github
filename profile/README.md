@@ -20,7 +20,7 @@ A MATLAB and Simulink platform for investigating UAV navigation and logistics us
 
 <p align="center">
   <a href="https://github.com/AppliedSystems-Lab/Multi-UAV-Path-Planning">
-    <img src="assets/uav-project.png" alt="Urban UAV simulation" width="85%">
+    
   </a>
 </p>
 
