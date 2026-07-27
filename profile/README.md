@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Applied Systems Lab" width="100%">
-</p>
-
 <h1 align="center">Applied Systems Lab</h1>
 
 <p align="center">
