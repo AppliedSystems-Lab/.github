@@ -10,7 +10,7 @@
 
 ---
 
-## Current Project
+## Projects
 
 ### [Urban UAV Logistics Simulation](https://github.com/AppliedSystems-Lab/Multi-UAV-Path-Planning)
 
@@ -24,8 +24,20 @@ A MATLAB and Simulink platform for investigating UAV navigation and logistics us
   </a>
 </p>
 
----
 
+### [SONAR Raspberry PI](https://github.com/AppliedSystems-Lab/SONAR-Raspberry-PI-Project)
+
+It is a smart SONAR system using ultrasonic sensor and a servo motor.
+
+`Embedded Systems` `Raspberry PI` `Breadboard` `Wiring`
+
+<p alight="center">
+  <a href = https://github.com/AppliedSystems-Lab/SONAR-Raspberry-PI-Project">
+  </a>
+</p>
+
+
+---
 <p align="center">
   Building systems that can be implemented, tested and explained.
 </p>
